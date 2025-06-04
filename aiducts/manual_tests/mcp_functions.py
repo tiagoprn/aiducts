@@ -1,3 +1,9 @@
+"""
+Inside the aiducts folder (where "core.py" is located),
+run this script as a python module:
+
+python -m manual_tests.mcp_functions
+"""
 import json
 import sys
 
